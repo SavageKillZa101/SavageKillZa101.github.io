@@ -1,0 +1,1 @@
+Just a little project that i plan to do. Basically my girlfriend has never seen any good classic movies or shows like "Titanic" "16 Candles" "Breakfast Club" etc. so this is my attempt to get her to watch them by using this template site to host a streaming site.
